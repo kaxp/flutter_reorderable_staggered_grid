@@ -134,7 +134,7 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "reorderable_staggered_grid",
+      "name": "flutter_reorderable_staggered_grid",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
